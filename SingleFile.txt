@@ -1,0 +1,9 @@
+Steve
+Billy
+Rudolph
+Jim
+Sherlock
+Name:Alice
+Age: 20
+Degree: CSE
+University: Oxford University

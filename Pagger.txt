@@ -1,0 +1,27 @@
+Steve
+Billy
+Rudolph
+Jim
+Sherlock
+Name:Alice
+Age: 20
+Degree: CSE
+University: Oxford University
+Unit- Working with files
+Python inbuilt Function:
+
+Create
+Read
+Write
+Types of Files:
+
+text files :Terminates for line '\n'
+Binary files: understandable for terminator for new line '\n'
+Modes in Python:
+
+r : read
+r+ : read and write
+w : write only
+w+ :write and read
+a : append
+a+ : append and read
